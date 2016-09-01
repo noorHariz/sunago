@@ -9137,9 +9137,9 @@ select.mma-mod_survey-select {
     border-color: #b1cdfb; 
 	background-color: #dfebff;}
 
-a, mm-format-text a {
-  color: #387ef5;
-  text-decoration: none; }
+//a, mm-format-text a {
+//  color: #387ef5;
+//  text-decoration: none; }
 
 mm-format-text a:hover {
   text-decoration: underline; }
@@ -9151,8 +9151,11 @@ mm-format-text .button.activated a {
   background-color : #275a68;
   box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.1); }
 
+//.bar-content .title, .item-divider h2, .item-divider .item .item-heading, .item .item-divider .item-heading, .item-divider p, a.item h2, a.item .item-heading {
+//  color: #FAFAFA; }
+
 .bar-content .title, .item-divider h2, .item-divider .item .item-heading, .item .item-divider .item-heading, .item-divider p, a.item .item-heading {
-  color: #FAFAFA; }
+  color: #FFFFFF; }
   
 a.item h2{
   color: #ABACAF; }
